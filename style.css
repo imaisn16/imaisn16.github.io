@@ -1,0 +1,18 @@
+body {
+  min-height: 3000px;
+}
+
+/* Class awalan . */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+/* id awalan # */
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
