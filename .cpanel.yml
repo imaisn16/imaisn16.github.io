@@ -6,3 +6,4 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
+# di hoster untuk update perubahan klik update from remote terus deploy HEAD commit, kemudian refresh websitenya
